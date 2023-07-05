@@ -1,4 +1,5 @@
-var characrter {
+var characrter = {
     name: "John",
-    age: 20
+    age: 25
+}
 }
