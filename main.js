@@ -5,5 +5,6 @@ var characrter = {
 
 var boss = {
     name: "Boss",
-    age: 30
+    age: 30,
+    attack: 400
 }
